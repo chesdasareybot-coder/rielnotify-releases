@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "2.8",
+  "versionCode": 29,
+  "versionName": "2.9",
   "releaseNotes": "- Fixed decimal reading ($1.55 reads correctly as 1 dollar 55 cents)\n- Audio keys fixed for all Khmer spoken words\n- Stability improvements for Android 14/15/16\n- Notification service works after kill\n- Donation QR on home page\n- Play Store compliance updates",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.sophearith.rielnotify",
   "forceUpdate": false
